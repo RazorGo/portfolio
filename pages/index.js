@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get to know me {' '}
+          Get to know me {' '} <br />
           <code className={styles.code}>Lets begin</code>
         </p>
 
