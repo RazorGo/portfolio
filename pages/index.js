@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://portfolio-eosin-sigma-51.vercel.app/">Divyanshu.dev</a>
+          Welcome to <a href="https://portfolio-eosin-sigma-51.vercel.app/">Divyanshu</a>
         </h1>
 
         <p className={styles.description}>
