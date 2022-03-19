@@ -45,7 +45,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWtDkwGNxgjJQzDVbghlGvslJLbKFDXHgmTjhBRVWmHSVjTcVWDDQttZGgWxRPnwJMhHRwSbv"
+            href=""
             className={styles.card}
           >
             <h2>Contact me &rarr;</h2>
